@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+}
+
+#headerListing{
+    height:100px;
+    width: 100%;
+    background-color: #003585;
+}
+
+#header_info{
+    height: 230px;
+    width: 60%;
+    margin-left: 19%;
+    margin-top: 10px;
+    position:absolute;
+}
+
+#booking_im{
+    color: white; 
+    font-family:BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    font-size: 25px; 
+    margin-bottom: 0;
+}
+#register{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: white;
+    color:#0071c2;
+    font-size:15px;
+    height: 20px;
+    border: 0;
+}
+#login{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: white;
+    color:#0071c2;
+    font-size:15px;
+    height: 20px;
+    border: 0;
+}
+
+#Find_your_next_stay_Listing{
+    color: white; 
+    margin-top: 50px; 
+    margin-left: 290px;
+    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+    font-size: 30px;
+    position:absolute;
+}
+
+
+@media screen and (max-width:1294px) {
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 240px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+}
+
+
+@media screen and (max-width:1216px) {
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 220px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+    
+}
+
+
+
+@media screen and (max-width:1090px) {
+    
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 200px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+    
+}
+
+
+
+@media screen and (max-width:949px) {
+    
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 170px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+    
+}
+
+
+
+@media screen and (max-width:892px) {
+    
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 150px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+    
+}
+
+@media screen and (max-width:840px) {
+    
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 150px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+    
+}
+
+
+
+@media screen and (max-width:726px) {
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 130px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+    
+}
+
+
+
+@media screen and (max-width:711px) {
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 125px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+    
+}
+
+
+@media screen and (max-width:616px) {
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 110px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+    
+}
+
+
+
+
+
+@media screen and (max-width:515px) {
+    #Find_your_next_stay_Listing{
+        color: white; 
+        margin-top: 50px; 
+        margin-left: 90px;
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 30px;
+        position:absolute;
+    }
+}

@@ -1,0 +1,512 @@
+body{
+    margin: 0;
+}
+
+#pickedplaces{
+    height: 1250px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+#one{
+    display:inline-block;
+    width:45%;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+#one:hover{
+    transform: scale(1.1);
+}
+
+@media screen and (max-width:1517px) {
+    #s_body{
+        height: 2570px;
+        width:60%;
+        margin-left: 20%;
+        margin-top:  60px;
+        position:absolute;
+        /* background-color:white; */
+    }   
+    #video{
+        width:900px;
+        height:500px ;
+        margin-top: 50px; 
+        margin-left:300px;
+    }
+    #Explore_top_Places_in_India{
+        font-family:sans-serif; 
+        font-weight: bold; 
+        font-size: 18px; 
+        margin: 0;
+    }
+    #one{
+        display:inline-block;
+        height: 250px;
+        width:45%;
+        margin-left: 230px;
+        margin-top: 30px;
+        margin-bottom:60px;
+    }
+    #one:hover{
+        transform: scale(1.1);
+    }
+    
+    #footer{
+        background-color: #003585;
+        height: 310px;
+        width: 100%;
+        position:absolute;
+        margin-top: 2850px;
+        z-index: 0;
+    }
+}
+@media screen and (max-width:1414px) {
+    #video{
+        width:900px;
+        height:500px ;
+        margin-top: 50px; 
+        margin-left:240px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 20px;
+        margin-top: 2800px;
+        position:absolute;
+        margin-left: 230px;
+    }
+}
+
+@media screen and (max-width:1311px) {
+    #video{
+        width:800px;
+        height:450px ;
+        margin-top: 50px; 
+        margin-left:230px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 20px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 170px;
+    }
+    #one{
+        display:inline-block;
+        height: 250px;
+        width:45%;
+        margin-left: 200px;
+        margin-top: 30px;
+        margin-bottom:60px;
+    }
+}
+
+@media screen and (max-width:1207px) {
+    #video{
+        width:800px;
+        height:450px ;
+        margin-top: 50px; 
+        margin-left:190px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 20px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 120px;
+    }
+}
+@media screen and (max-width:1112px) {
+    #video{
+        width:670px;
+        height:400px ;
+        margin-top: 50px; 
+        margin-left:210px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 18px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 130px;
+    }
+}
+@media screen and (max-width:1056px) {
+    #video{
+        width:650px;
+        height:370px ;
+        margin-top: 50px; 
+        margin-left:180px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 18px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 100px;
+    }
+    #one{
+        display:inline-block;
+        height: 250px;
+        width:55%;
+        margin-left: 130px;
+        margin-top: 30px;
+        margin-bottom:60px;
+    }
+}
+
+@media screen and (max-width:977px) {
+    #video{
+        width:650px;
+        height:370px ;
+        margin-top: 50px; 
+        margin-left:140px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 17px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 100px;
+    }
+}
+
+@media screen and (max-width:941px) {
+    #video{
+        width:650px;
+        height:370px ;
+        margin-top: 50px; 
+        margin-left:140px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 17px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 50px;
+    }
+}
+@media screen and (max-width:879px) {
+    #video{
+        width:600px;
+        height:350px ;
+        margin-top: 50px; 
+        margin-left:130px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 15px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 70px;
+    }
+    #one{
+        display:inline-block;
+        height: 250px;
+        width:60%;
+        margin-left: 100px;
+        margin-top: 30px;
+        margin-bottom:60px;
+    }
+}
+
+@media screen and (max-width:806px) {
+    #video{
+        width:600px;
+        height:350px ;
+        margin-top: 50px; 
+        margin-left:90px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 15px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    #video{
+        width:550px;
+        height:350px ;
+        margin-top: 50px; 
+        margin-left:90px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 13px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 65px;
+    }
+    #one{
+        display:inline-block;
+        height: 250px;
+        width:70%;
+        margin-left: 70px;
+        margin-top: 30px;
+        margin-bottom:60px;
+    }
+}
+
+@media screen and (max-width:708px) {
+    #video{
+        width:550px;
+        height:350px ;
+        margin-top: 50px; 
+        margin-left:70px;
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 13px;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 30px;
+    }
+
+}
+
+
+@media screen and (max-width:677px) {
+    #video{
+        width:500px;
+        height:300px ;
+        margin-top: 50px; 
+        margin-left:70px;
+    }
+    #data_select{
+        height: 40px;
+        width: 80%;
+        border: 4px orange solid;
+        margin-top: 280px;
+        margin-left: 60px;
+        position:absolute;
+    }
+    #site_caution_line{
+        font-size: 10px;
+    }
+    #city{
+        height: 40px;
+        width: 40%;
+        border: 0;
+        border-right: 4px orange solid  ;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    #check_in{
+        height: 40px;
+        width: 20%;
+        border: 0;
+        position: absolute;
+        border-right: 3px gray solid;    
+    
+    
+    }
+    #check_out{
+        height: 40px;
+        width: 20%;
+        border: 0;
+        position: absolute;
+        margin-left: 20%;
+        border-right: 4px orange solid  ;
+    }
+    
+    #search{
+        height: 40px;
+        width: 20%; 
+        color: white; 
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+        font-weight: 900; 
+        background-color:#0071c2; 
+        margin-left: 40%; 
+        position:absolute; 
+    }
+    #caution{
+        color: gray; 
+        font-family: sans-serif;
+        font-size: 11px;
+        font-weight: 800;
+        margin-top: 2700px;
+        position:absolute;
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width:636px) {
+    #Find_your_next_stay{
+        color: white; 
+        margin-top: 10px; 
+        margin-bottom: 5px; 
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size: 25px;
+    }
+    #Search_for_hotels_in_your_place{
+        color: white; 
+        margin-top: 0; 
+        font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; 
+        font-size:10px; 
+        font-weight: 400;
+    }
+}
+
+@media screen and (max-width:605px) {
+    #video{
+        width:450px;
+        height:250px ;
+        margin-top: 50px; 
+        margin-left:70px;
+    }
+}
+
+
+@media screen and (max-width:553px) {
+    #video{
+        width:400px;
+        height:250px ;
+        margin-top: 50px; 
+        margin-left:70px;
+    }
+    #one{
+        display:inline-block;
+        height: 250px;
+        width:100%;
+        margin-left: 10px;
+        margin-top: 30px;
+        margin-bottom:60px;
+    }
+}
+
+@media screen and (max-width:515px) {
+
+    #one{
+        display:inline-block;
+        height: 250px;
+        width:80%;
+        margin-left: 40px;
+        margin-top: 30px;
+        margin-bottom:60px;
+    }
+
+    #header_info {
+        height: 230px;
+        width: 80%;
+        margin-left: 19%;
+        margin-top: 10px;
+        position: absolute;
+    }
+    #s_body{
+        height: 1550px;
+        width:95%;
+        margin-left:23px ;
+        margin-top:  60px;
+        position:absolute;
+        background-color:white;
+        border: 2px #0953bb;
+    }
+    #Explore_top_Places_in_India{
+        text-align: center;
+    }
+    #These_popular_destinations_have_a_lot_to_offer{
+        text-align: center;
+    }
+    #video{
+        width:400px;
+        height:250px ;
+        margin-top: 50px; 
+        margin-left:50px;
+    }
+    #data_select{
+        height: 40px;
+        width: 90%;
+        border: 4px orange solid;
+        margin-top: 280px;
+        margin-left: 25px;
+        position:absolute;
+    }
+}
+/* 
+@media screen and (max-width:774px) {
+    #1{
+        display:inline-block;
+        width:50%;
+        margin-right: 85px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    #1:hover{
+        transform: scale(1.1);
+    }
+    #amritsar{
+        display:inline-block;
+        width:50%;
+        margin-bottom: 5px;
+    }
+    #amritsar:hover{
+        transform: scale(1.1);
+    }
+    #NewDelhi{
+        display:inline-block;
+        width:50%;
+        margin-right: 85px;
+        margin-bottom: 5px;
+    }
+    #NewDelhi:hover{
+        transform: scale(1.1);
+    }
+    #mumbai{
+        display:inline-block;
+        width:50%;
+        margin-bottom: 5px;
+    }
+    #mumbai:hover{
+        transform: scale(1.1);
+    }
+    #Hyderabad{
+        display:inline-block;
+        width:50%;
+        margin-right: 85px;
+        margin-bottom: 5px;
+    }
+    #Hyderabad:hover{
+        transform: scale(1.1);
+    }
+    #Jaipur{
+        display:inline-block;
+        width:50%;
+        margin-bottom: 5px;
+    }
+    #Jaipur:hover{
+        transform: scale(1.1);
+    }
+    #goa{
+        display:inline-block;
+        width:50%;
+        margin-right: 85px;
+        margin-bottom: 5px;
+    }
+    #goa:hover{
+        transform: scale(1.1);
+    }
+    
+    #bangalore{
+        display:inline-block;
+        margin-bottom: 5px;
+        width:50%;
+    }
+    #bangalore:hover{
+        transform: scale(1.1);
+    }
+} */

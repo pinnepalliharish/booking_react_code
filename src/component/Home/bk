@@ -1,0 +1,13 @@
+<div id="s_body">
+    <h4 id="Explore_top_Places_in_India"  >Explore top Places in India </h4>
+    <h6 id="These_popular_destinations_have_a_lot_to_offer">These popular destinations have a lot to offer</h6>
+    <div id="pickedplaces">
+        <center>
+            <div id="agra">
+                <img src="https://i.ibb.co/Q86JPWX/agra-img.png" alt="agra img" style={{height: '250px',width:' 100%', marginBottom: '2px'}}/>
+                <h4 style={{fontFamily: 'sans-serif', textAlign: 'center', marginTop: '2px', marginBottom: '2px'}}>Agra</h4>
+                <h6 style={{fontFamily: 'sans-serif', textAlign: 'center', color: 'gray', marginTop: 0}}>5 Properties Available</h6>
+            </div>
+        </center>
+    </div>
+</div>

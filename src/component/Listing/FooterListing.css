@@ -1,0 +1,128 @@
+
+#footerListing{
+    background-color: #003585;
+    height: 330px;
+    width: 100%;
+    position:absolute;
+    margin-top: 100px;
+    z-index: 0;
+}
+
+#social_media{
+    margin-top: 20px;
+}
+
+#zomato_link{
+    color: white;
+    text-decoration: none; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#zomato_link:hover{
+    color: orange;
+}
+
+#profile_link{
+    color: white; 
+    text-decoration: none; 
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#profile_link:hover{
+    color: orange;
+}
+#links{
+}
+#gototop{
+    text-decoration: none; 
+    border: 2px white solid; 
+    color: white;
+    margin-top: 30px;
+}
+#gototop:hover{
+    background-color: white;
+    color: #003585;
+}
+
+
+
+
+@media screen and (max-width:949px) {
+    #footerListing{
+        background-color: #003585;
+        height: 330px;
+        width: 100%;
+        position:absolute;
+        margin-top: 200px;
+        z-index: 0;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width:734px) {
+    #footerListing{
+        background-color: #003585;
+        height: 330px;
+        width: 100%;
+        position:absolute;
+        margin-top: 200px;
+        z-index: 0;
+    }
+}
+
+@media screen and (max-width:728px) {
+    
+    #footerListing{
+        background-color: #003585;
+        height: 330px;
+        width: 100%;
+        position:absolute;
+        margin-top:300px;
+        z-index: 0;
+    }
+}
+
+@media screen and (max-width:726px) {
+
+    #footerListing{
+        background-color: #003585;
+        height: 330px;
+        width: 100%;
+        position:absolute;
+        margin-top:300px;
+        z-index: 0;
+    }
+}
+    
+
+@media screen and (max-width:720px) {
+    #footerListing{
+        background-color: #003585;
+        height: 330px;
+        width: 100%;
+        position:absolute;
+        margin-top:400px;
+        z-index: 0;
+    }
+}
+
+
+@media screen and (max-width:574px) {
+    #footerListing{
+        background-color: #003585;
+        height: 330px;
+        width: 100%;
+        position:absolute;
+        margin-top:300px;
+        z-index: 0;
+    }
+}
+
+
+
+
+
+

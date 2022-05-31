@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+
+#footerHome{
+    background-color: #003585;
+    height: 330px;
+    width: 100%;
+    position:absolute;
+    margin-top: 1700px;
+    z-index: 0;
+}
+
+#social_media{
+    margin-top: 20px;
+}
+
+#zomato_link{
+    color: white;
+    text-decoration: none; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#zomato_link:hover{
+    color: orange;
+}
+
+#profile_link{
+    color: white; 
+    text-decoration: none; 
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#profile_link:hover{
+    color: orange;
+}
+
+#gototop{
+    text-decoration: none; 
+    border: 2px white solid; 
+    color: white;
+    margin-top: 30px;
+}
+#gototop:hover{
+    background-color: white;
+    color: #003585;
+}
+
+@media screen and (max-width:1517px) {
+    
+    #footerHome{
+        background-color: #003585;
+        height: 310px;
+        width: 100%;
+        position:absolute;
+        margin-top: 2900px;
+        z-index: 0;
+    }
+}
+
+
